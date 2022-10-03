@@ -1,6 +1,8 @@
 Live Project
 
 Introduction-
+
+
 During my studies at the Tech Academy I had to complete a 2 week Live project for Python. I worked in a team setting, creating apps using Python and Django, this included creating databases to interact with APIs and keep track of data. Using HTML and CSS files.
 I worked on multiple stories to bring the app together. A lot of the site had already been built by previous students, so it was jumping in and working to add on to that.
 
